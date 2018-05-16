@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Google maps too</string>
     <string name="title_activity_maps">Map</string>
+
+    <string name="start_point_hint">Enter start point</string>
+    <string name="end_point_hint">Enter end point</string>
 </resources>
